@@ -22,7 +22,7 @@ if (operator === "+") {
 } else if (operator === "-") {
     alert("Your result is: "+ subtract +".");
 } else if (operator === "*") {
-    alert ("Your result is :"+ multiply +".");
+    alert ("Your result is: "+ multiply +".");
 } else if (operator === "/") {
     alert ("Your result is: "+ divide +".");
 } else {
